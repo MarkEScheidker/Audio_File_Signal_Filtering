@@ -1,0 +1,9 @@
+-----Summary-----
+Name: Mark Scheidker
+File: CPE_381_project_1.cpp
+Number of Channels: 2
+Sampling Frequency: 22050
+Audio Length: 14s
+Max Value Left: 0
+MaX Value Right: 0
+Program Runtime: 306ms
